@@ -1,0 +1,11 @@
+{
+  "name": "nodest-spaces",
+  "version": "0.0.1",
+  "description": "Extension provides modular spaces for the Nodest framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Weaver <dave@nolinio.com> (http://nolinio.com/)",
+  "license": "ISC"
+}
