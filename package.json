@@ -1,6 +1,6 @@
 {
   "name": "nodest-spaces",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Extension provides modular spaces for the Nodest framework.",
   "main": "index.js",
   "scripts": {
